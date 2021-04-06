@@ -1,0 +1,8 @@
+site_name: "tet-docs"
+site_description: "Test Document"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
